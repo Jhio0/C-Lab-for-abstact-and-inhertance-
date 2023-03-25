@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\soria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\soria\\.nuget\\packages"
+    ]
+  }
+}
